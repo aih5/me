@@ -1,0 +1,7 @@
+.idea/
+logs/*
+node_modules/*
+*.bin
+*.yaml
+__pycache__
+static/js/data.js

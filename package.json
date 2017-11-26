@@ -1,0 +1,27 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "about me",
+  "main": "webpack.dev.js",
+  "scripts": {
+    "start": "webpack --config webpack.dev.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aih5/me.git"
+  },
+  "keywords": [
+    "about",
+    "me"
+  ],
+  "author": "msg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aih5/me/issues"
+  },
+  "homepage": "https://github.com/aih5/me#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
